@@ -2,7 +2,7 @@
 """
 Created on Wed Dec 21 18:17:11 2022
 
-@author: Acer
+@author: PM
 """
 
 class Ok:
